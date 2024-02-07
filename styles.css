@@ -13,7 +13,7 @@ body{
 }
 #header-img{
   border-radius:50%;
-  width:100;
+  width:60px;
 }
 .header-logo{
   display:flex;
@@ -35,7 +35,6 @@ header{
   width:100%;
   z-index:1;
 }
-
 ul{
   width:35vw;
   display:flex;
